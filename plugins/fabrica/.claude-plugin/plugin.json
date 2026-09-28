@@ -1,0 +1,8 @@
+{
+  "name": "fabrica",
+  "version": "1.0.0",
+  "description": "Kit de segurança da Fábrica de MVPs com IA: bloqueia comandos destrutivos, impede chaves secretas no código e instala proteções no projeto",
+  "author": {
+    "name": "Fábrica de MVPs com IA"
+  }
+}

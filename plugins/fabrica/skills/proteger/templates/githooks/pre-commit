@@ -1,0 +1,3 @@
+#!/bin/sh
+# Kit de segurança da Fábrica: confere os arquivos antes de cada commit.
+node scripts/fabrica-check.mjs --staged

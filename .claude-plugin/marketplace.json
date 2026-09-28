@@ -1,0 +1,14 @@
+{
+  "name": "fabrica-mvps",
+  "description": "Kit oficial do curso Fábrica de MVPs com IA",
+  "owner": {
+    "name": "Fábrica de MVPs com IA"
+  },
+  "plugins": [
+    {
+      "name": "fabrica",
+      "source": "./plugins/fabrica",
+      "description": "Kit de segurança da Fábrica: bloqueia ações perigosas, protege suas chaves e revisa o projeto antes de publicar"
+    }
+  ]
+}
